@@ -38,7 +38,6 @@
 .navbar_links{
     list-style-type: none;
     transition: all 2s ease;
-        /*added later*/
         height: 0;
         overflow: hidden;
 }
